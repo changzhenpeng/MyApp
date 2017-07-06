@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">zpchang</string>
+
+
+    <!--Demo-start -->
+    <string name="btn_main_demo">Demo</string>
+    <string name="bar_demo_system">系统评分条</string>
+    <string name="mybar_demo_system">自定义评分条</string>
+    <!--Demo-end -->
+
+
+    <!--App-start -->
+    <string name="btn_main_app">App</string>
+    <string name="btn_matrix_scal">缩放</string>
+    <string name="btn_matrix_rotate">旋转</string>
+    <string name="btn_matrix_translation">平移</string>
+    <string name="btn_matrix_transformation">斜切</string>
+    <!--App-end -->
+
+</resources>
